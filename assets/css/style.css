@@ -6,11 +6,3 @@
     background-position: left;
     height: 30rem;
 }
-
-.fotos{
-    background-image: url("../img/bg-hero.jpg");
-    background-image: url("../img/cardmati1.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: left;
-}

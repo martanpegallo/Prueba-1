@@ -1,8 +1,8 @@
-## titulo
-Prueba 1
-## descripcion
+## Titulo
+Prueba 1: MI CV
+## Descripcion
 Este proyecto es de Matias Zamora
-## forkear los proyectos de por lo menos 2 compañeros
+## Fork a compañeros
 
 1. forkeado a pepito
 
